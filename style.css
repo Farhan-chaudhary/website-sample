@@ -12,6 +12,13 @@ body {
   justify-content: center;
   align-items: center;
 }
+button:last-child {
+  background: #25D366;
+}
+
+button:last-child:hover {
+  background: #1ebe5d;
+}
 
 .container {
   background: #ffffff;
@@ -45,3 +52,4 @@ button {
 button:hover {
   background: #1e40af;
 }
+
